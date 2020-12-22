@@ -1,4 +1,5 @@
 # bern-ui
+搭建一个UI组件库架子
 
 ## Project setup
 ```
